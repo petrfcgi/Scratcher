@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Scratcher</string>
+
+    <!-- General -->
+    <string name="go_back">Jít zpět</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="understand">Rozumím</string>
+
+    <!-- Scratch -->
+    <string name="scratch_with_button_below">Seškrábejte kliknutím na tlačítko níže!</string>
+    <string name="scratch_code">Seškrábat kartu</string>
+
+    <!-- Home -->
+    <string name="go_to_scratch_screen">Otevřít stránku škrábání</string>
+    <string name="go_to_activation_screen">Otevřít stránku pro aktivaci</string>
+    <string name="card_state">Stav karty</string>
+    <string name="is_scratched">Je seškrábaná</string>
+    <string name="is_activated">Je aktivovaná</string>
+    <string name="reset">Reset</string>
+
+    <!-- Activation -->
+    <string name="activate_card">Aktivujte kartu</string>
+    <string name="card_activation_in_progress">Probíhá aktivace karty</string>
+
+    <!-- Errors -->
+    <string name="retry">Zkusit znovu</string>
+    <string name="error_generic">Něco se pokazilo</string>
+    <string name="error_no_network">Nepodařilo se připojit k internetu</string>
+    <string name="error_response_parsing">Nepodařilo se zpracovat odpověď</string>
+    <string name="error_api_response">Nastala chyba při komunikaci se serverem</string>
+
+</resources>
